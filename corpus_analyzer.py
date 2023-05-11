@@ -27,7 +27,7 @@ average_sentence_length = total_characters / len(sentences)
 
 # Most frequent words
 freq_dist = nltk.FreqDist(word_tokenize(corpus))
-most_frequent_words = freq_dist.most_common(10)
+most_frequent_words = freq_dist.most_common(20)
 
 # Visualize the data
 data = {"Most frequent words": most_frequent_words}
