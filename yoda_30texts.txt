@@ -1,64 +1,65 @@
 OLD
 
-The very Republic is threatened, if involved the Sith are.
-Hard to see, the dark side is.
-Discover who this assassin is, we must.
-With this Naboo queen you must stay, Qui-Gon. Protect her.
-May the Force be with you.
-Master Qui-Gon more to say have you?
-A vergence, you say?
-But you do! Revealed your opinion is.
-Trained as a Jedi, you request for him?
-Tested he will be.
-Good, good, young one. How feel you?
-Afraid are you?
-See through you, we can.
-Afraid to lose her, I think.
-Everything. Fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering.
-A Jedi must have the deepest commitment, the most serious mind. I sense much fear in you.
-Then continue, we will.
-Correct you were, Qui-Gon.
-Clouded, this boy's future is. Masked by his youth.
-An apprentice, you have, Qui-Gon. Impossible, to take on a second.
-Ready so early, are you? What know you of ready?
-Our own council we will keep on who is ready. More to learn, he has.
-And draw out the Queen's attacker.
-Young Skywalker's fate will be decided later.
-Train him not. Take him with you, but train him not!
-May the Force be with you.
-Confer on you, the level of Jedi Knight the Council does. But agree on you taking this boy as your Padawan learner, I do not.
-The Chosen One the boy may be, nevertheless, grave danger I fear in his training.
-Qui-Gon's defiance I sense in you. Need that, you do not. Agree, the council does. Your apprentice, young Skywalker will be.
-Always two there are, no more, no less. A master and an apprentice.
+"Master Qui-Gon, more to say have you?"
+"A vergence, you say?"
+"An apprentice, you have, Qui-Gon."
+"Master Kenobi, dark times are these."
+"Master Kenobi, our spies contact, you must."
+"Master Kenobi, my choice is."
+"Your father he is."
+"May the Force be with you."
+"Fear is the path to the dark side, fear leads to anger, anger leads to hate, hate leads to suffering."
+"Death is a natural part of life. Rejoice for those around you who transform into the Force."
+"Train yourself to let go of everything you fear to lose."
+"In a dark place we find ourselves. A little more knowledge might light our way."
+"If into the security recordings you go, only pain will you find."
+"At an end your rule is and not short enough it was, I must say."
+"Failed to stop the Sith Lord, I have."
+"To become one with the Force, and influence still have."
+"To Tatooine. To his family, send him."
+"Done, it is."
+"Soon will I rest."
+"No more training do you require. Already know you that which you need."
+"Remember, a Jedi's strength flows from the Force."
+"But you do! Revealed your opinion is."
+"Good, good, young one. How feel you?"
+"Afraid are you?"
+"See through you, we can?"
+"Ready so early, are you?"
+"More to learn, he has?"
+"What know you of ready?"
+"Told you, did he?"
+"Unexpected this is, and unfortunate."
 
-NEW
+NEW 
 
-The very Republic is threatened, if involved the Sith are.
-Hard to see, the dark side is.
-Discover who this assassin is, we must.
-With this Naboo queen you must stay, Qui-Gon.
-May the Force be with you.
-Master Qui-Gon more to say have you?
-A vergence, you say?
-Revealed your opinion is.
-Trained as a Jedi, you request for him?
-Tested he will be.
-Good, good, young one. How feel you?
-Afraid are you?
-See through you, we can.
-Afraid to lose her, I think.
-A Jedi must have the deepest commitment, the most serious mind. 
-Then continue, we will.
-Correct you were, Qui-Gon.
-Clouded, this boy's future is.
-An apprentice, you have, Qui-Gon.
-Ready so early, are you? 
-What know you of ready?
-More to learn, he has.
-And draw out the Queen's attacker.
-Young Skywalker's fate will be decided later.
-May the Force be with you.
-Confer on you, the level of Jedi Knight the Council does.
-Agree, the council does. 
-Your apprentice, young Skywalker will be.
-Always two there are, no more, no less.
+"Master Qui-Gon, more to say have you?"
+"A vergence, you say?"
+"An apprentice, you have, Qui-Gon."
+"Master Kenobi, dark times are these."
+"Master Kenobi, our spies contact, you must."
+"Master Kenobi, my choice is."
+"Your father he is."
+"May the Force be with you."
+"Fear is the path to the dark side."
+"Death is a natural part of life."
+"Train yourself to let go."
+"In a dark place we find ourselves."
+"Only pain will you find."
+"At an end your rule is."
+"Failed to stop the Sith Lord, I have."
+"To become one with the Force."
+"To his family, send him."
+"Done, it is."
+"Soon will I rest."
+"No more training do you require."
+"A Jedi's strength flows from the Force."
+"Revealed your opinion is."
+"Good, young one. How feel you?"
+"Afraid are you?"
+"See through you, we can?"
+"Ready are you?"
+"More to learn, he has?"
+"What know you of ready?"
+"Told you, did he?"
+"Unexpected this is."
